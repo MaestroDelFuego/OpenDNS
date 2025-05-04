@@ -1,0 +1,245 @@
+{
+    "pornography": [
+      "pornhub.com", "xvideos.com", "youporn.com", "*.adultsite.com", "redtube.com",
+      "brazzers.com", "xnxx.com", "tube8.com", "xhamster.com", "spankbang.com",
+      "adult-empire.com", "*.pornsite.net", "daftsex.com", "vporn.com", "erome.com",
+      "hentaihaven.org", "fapnation.com", "porntube.com", "sex.com"
+    ],
+    "erotic_stories": [
+      "literotica.com", "lushstories.com", "nifty.org", "asstr.org", "erotica-readers.com",
+      "mcstories.com", "bdsmlibrary.com", "sexstories.com", "chyoa.com", "storiesonline.net",
+      "eroticastories.com", "adult-fanfiction.org", "fictionmania.tv", "romanceerotica.com",
+      "eroticfiction.org", "sexualstories.club", "kristensboard.com", "erotictales.com"
+    ],
+    "adult_forums": [
+      "adultfriendfinder.com", "fetlife.com", "badwebsite.net", "collarspace.com",
+      "swingersboard.com", "alt.com", "bondage.com", "kink.com", "reddit.com/r/adult",
+      "adultspace.com", "passion.com", "sdccircle.com", "adultchat.net", "fubar.com",
+      "sexforum.com", "adultmatchmaker.com", "naughty.com", "friendfinder-x.com"
+    ],
+    "escort_services": [
+      "backpage.com", "eros.com", "slixa.com", "cityvibe.com", "escortdirectory.com",
+      "escortbabylon.net", "humaniplex.com", "listcrawler.com", "skipthegames.com",
+      "escortfish.ch", "tryst.link", "adultlook.com", "escortnews.eu", "eurogirlsescort.com",
+      "worldescortindex.com", "escort-ads.com", "cityxguide.com", "escortalligator.com"
+    ],
+    "violent_games": [
+      "manhuntgame.com", "grandtheftauto.com", "doom.com", "mortal-kombat.com",
+      "postal2.com", "hatredgame.com", "carmageddon.com", "soldieroffortune.com",
+      "deadspace.com", "farcry.com", "hitman.com", "sniperelite.com", "madworld.com",
+      "gorezone.net", "shadowwarrior.com", "bloodrayne.com", "killingfloor.com",
+      "left4dead.com", "wolfenstein.com"
+    ],
+    "casual_games": [
+      "miniclip.com", "pogo.com", "example.com", "addictinggames.com", "kongregate.com",
+      "armorgames.com", "newgrounds.com", "coolmathgames.com", "friv.com", "y8.com",
+      "gamehouse.com", "shockwave.com", "popcap.com", "bigfishgames.com", "agame.com",
+      "girlsgogames.com", "crazygames.com", "kizi.com", "mousebreaker.com", "freetoplay.com"
+    ],
+    "online_multiplayer": [
+      "fortnite.com", "callofduty.com", "worldofwarcraft.com", "overwatch.com",
+      "destinythegame.com", "apexlegends.com", "pubg.com", "counter-strike.com",
+      "dota2.com", "leagueoflegends.com", "rainbowsix.com", "battlefield.com",
+      "valorant.com", "rocketleague.com", "amongus.com", "minecraft.net",
+      "teamfortress.com", "warframe.com", "paladins.com"
+    ],
+    "gambling_games": [
+      "*.pokerstars.com", "888poker.com", "partypoker.com", "zyngapoker.com",
+      "fulltiltpoker.com", "globalpoker.com", "pokerroom.com", "tigergaming.com",
+      "betonline.ag", "americascardroom.eu", "ignitioncasino.eu", "bovada.lv",
+      "cardplayer.com", "pokerking.com", "blackchippoker.eu", "natural8.com",
+      "pokergo.com", "runpoker.com"
+    ],
+    "malware": [
+      "malware-download.com", "infected-site.ru", "trojan-downloader.net", "virusshare.com",
+      "malicious.org", "badware-site.cc", "exploitpack.com", "ransomware.live",
+      "malware-traffic-analysis.net", "*.malware-site.xyz", "zeus-downloader.com",
+      "cryptojacker.io", "adware-installer.com", "botnet.cc", "spyware-download.com",
+      "keylogger.me", "worm-infector.com", "malicious-code.net", "backdoor-site.org"
+    ],
+    "phishing": [
+      "fake-paypal.com", "secure-login-appleid.com", "bankofamerica-secure.com",
+      "netflix-login-fake.com", "amazon-verify-account.com", "microsoft-login.live",
+      "chase-online-secure.com", "wellsfargo-login.com", "gmail-secure-login.com",
+      "facebook-login-secure.com", "irs-refunded.com", "paypal-verify-account.com",
+      "ebay-security.com", "apple-id-login.live", "dropbox-login-fake.com",
+      "adobe-account-verify.com", "linkedin-secure.com", "twitter-login-fake.com"
+    ],
+    "scams": [
+      "get-rich-quick.biz", "work-from-home-scam.com", "lottery-winner-fake.com",
+      "crypto-scam.net", "pyramid-scheme.org", "nigerian-prince-scam.com",
+      "fake-charity.org", "investment-scam.com", "timeshare-scam.com",
+      "romance-scam.net", "tech-support-scam.com", "fake-ticket.com",
+      "bogus-survey.com", "giftcard-scam.com", "mlm-scam.org",
+      "fake-job-offer.com", "phoney-loan.com", "scamalert.io"
+    ],
+    "hacking_tools": [
+      "darknet-tools.cc", "hackforums.net", "exploit-db.com", "metasploit.com",
+      "kali-tools.org", "nmap.org", "wireshark.org", "cain-abel.com",
+      "sqlmap.org", "hydra-cracker.com", "aircrack-ng.org", "burpsuite.com",
+      "johntheripper.com", "ophcrack.com", "hashcat.net", "darkcomet-rat.com",
+      "tor-browser.org", "crackstation.net", "packetstormsecurity.com"
+    ],
+    "social_networks": [
+      "facebook.com", "linkedin.com", "pinterest.com", "snapchat.com", "tiktok.com",
+      "reddit.com", "nextdoor.com", "meetup.com", "myspace.com", "tagged.com",
+      "hi5.com", "classmates.com", "friendster.com", "badoo.com", "okcupid.com",
+      "tinder.com", "bumble.com", "hinge.co", "vk.com"
+    ],
+    "microblogging": [
+      "twitter.com", "tumblr.com", "mastodon.social", "weibo.com", "plurk.com",
+      "parler.com", "gab.com", "gettr.com", "truthsocial.com", "micro.blog",
+      "peepeth.com", "wt.social", "yammer.com", "friendfeed.com", "identi.ca",
+      "diasp.org", "ello.co", "mewe.com"
+    ],
+    "photo_sharing": [
+      "instagram.com", "flickr.com", "imgur.com", "photobucket.com", "500px.com",
+      "smugmug.com", "shutterfly.com", "snapfish.com", "deviantart.com",
+      "pinterest.com", "behance.net", "vsco.co", "pixabay.com", "unsplash.com",
+      "stockphoto.com", "gettyimages.com", "istockphoto.com", "shutterstock.com"
+    ],
+    "video_sharing": [
+      "youtube.com", "vimeo.com", "dailymotion.com", "twitch.tv", "bitchute.com",
+      "rumble.com", "vevo.com", "liveleak.com", "metacafe.com", "vine.co",
+      "periscope.tv", "youku.com", "bilibili.com", "nicovideo.jp", "tiktok.com",
+      "brightcove.com", "vidyard.com", "wistia.com", "streamable.com"
+    ],
+    "online_casinos": [
+      "bet365.com", "bovada.lv", "888casino.com", "leovegas.com", "williamhill.com",
+      "casino.com", "mrgreen.com", "unibet.com", "betway.com", "spinpalace.com",
+      "jackpotcitycasino.com", "royalvegascasino.com", "rubyfortune.com",
+      "casinoland.com", "playamo.com", "bitcasino.io", "slots.lv", "intertops.eu"
+    ],
+    "sports_betting": [
+      "draftkings.com", "fanduel.com", "betway.com", "unibet.com", "pointsbet.com",
+      "williamhill.us", "betfair.com", "pinnacle.com", "sbobet.com", "ladbrokes.com",
+      "coral.co.uk", "skybet.com", "bwin.com", "sportingbet.com", "betvictor.com",
+      "10bet.com", "betfred.com", "foxbet.com"
+    ],
+    "lottery": [
+      "powerball.com", "megamillions.com", "lotto.com", "national-lottery.co.uk",
+      "euromillions.com", "lotteryusa.com", "thelotter.com", "lotto247.com",
+      "playhugelottos.com", "lotteryworld.com", "lottoagent.com", "lottery.com",
+      "lottonumbers.com", "lotterywest.wa.gov.au", "ozlotteries.com",
+      "lottery.co.uk", "irishlotto.com", "lottery.ie"
+    ],
+    "poker": [
+      "wsop.com", "pokerstars.net", "partypoker.net", "888poker.net", "pokernow.club",
+      "pokerstars.eu", "ggpoker.com", "natural8.com", "americascardroom.eu",
+      "ignitioncasino.eu", "bovada.lv", "betonline.ag", "globalpoker.com",
+      "tigergaming.com", "blackchippoker.eu", "pokergo.com", "runpoker.com",
+      "pokerking.com"
+    ],
+    "mainstream_news": [
+      "cnn.com", "bbc.com", "nytimes.com", "reuters.com", "theguardian.com",
+      "aljazeera.com", "apnews.com", "npr.org", "wsj.com", "washingtonpost.com",
+      "latimes.com", "abcnews.go.com", "nbcnews.com", "cbsnews.com", "foxnews.com",
+      "bloomberg.com", "time.com", "newsweek.com", "usatoday.com"
+    ],
+    "tabloid": [
+      "tmz.com", "nationalenquirer.com", "dailymail.co.uk", "badwebsite.net",
+      "thesun.co.uk", "radaronline.com", "starmagazine.com", "okmagazine.com",
+      "intouchweekly.com", "lifeandstylemag.com", "closerweekly.com", "mirror.co.uk",
+      "express.co.uk", "dailystar.co.uk", "newidea.com.au", "womansday.com",
+      "heatworld.com", "nowmagazine.co.uk"
+    ],
+    "fake_news": [
+      "infowars.com", "breitbart.com", "naturalnews.com", "beforeitsnews.com",
+      "worldnewsdailyreport.com", "yournewswire.com", "newsmax.com", "theepochtimes.com",
+      "zerohedge.com", "globalresearch.ca", "veteranstoday.com", "americanthinker.com",
+      "wnd.com", "thegatewaypundit.com", "dailywire.com", "onenewsnow.com",
+      "conservativebrief.com", "patriotpost.us"
+    ],
+    "opinion_blogs": [
+      "huffpost.com", "dailykos.com", "theblaze.com", "vox.com", "slate.com",
+      "salon.com", "jezebel.com", "gawker.com", "bustle.com", "mic.com",
+      "thinkprogress.org", "redstate.com", "hotair.com", "townhall.com",
+      "reason.com", "nationalreview.com", "newrepublic.com", "jacobinmag.com"
+    ],
+    "retail": [
+      "amazon.com", "walmart.com", "target.com", "bestbuy.com", "macys.com",
+      "nike.com", "adidas.com", "zara.com", "homedepot.com", "lowes.com",
+      "apple.com", "microsoft.com", "dell.com", "hp.com", "overstock.com",
+      "newegg.com", "kohls.com", "jcpenney.com", "sears.com"
+    ],
+    "marketplaces": [
+      "ebay.com", "etsy.com", "alibaba.com", "example.com", "rakuten.com",
+      "mercari.com", "poshmark.com", "depop.com", "tradesy.com", "bonanza.com",
+      "wish.com", "taobao.com", "jd.com", "pinduoduo.com", "flipkart.com",
+      "shopee.com", "lazada.com", "allegro.pl", "mercado-libre.com"
+    ],
+    "auction_sites": [
+      "sothebys.com", "christies.com", "bidz.com", "shopgoodwill.com",
+      "heritageauctions.com", "invaluable.com", "liveauctioneers.com",
+      "ebid.net", "webstore.com", "onlineauction.com", "dealbid.com",
+      "catawiki.com", "auctionzip.com", "proxibid.com", "barnebys.com",
+      "artnet.com", "bonhams.com", "phillips.com"
+    ],
+    "deals_and_coupons": [
+      "retailmenot.com", "groupon.com", "slickdeals.net", "coupons.com",
+      "honey.io", "dealnews.com", "bradsdeals.com", "offers.com",
+      "couponcabin.com", "dealsea.com", "fatwallet.com", "dealcatcher.com",
+      "bensbargains.com", "woot.com", "dailydeals.com", "blackfriday.com",
+      "cybermonday.com", "promocodes.com"
+    ],
+    "online_courses": [
+      "coursera.org", "udemy.com", "edx.org", "example.com", "skillshare.com",
+      "pluralsight.com", "linkedinlearning.com", "masterclass.com", "futurelearn.com",
+      "udacity.com", "lynda.com", "treehouse.com", "codecademy.com",
+      "datacamp.com", "khanacademy.org", "openlearning.com", "alison.com",
+      "iversity.org", "saylor.org"
+    ],
+    "reference_materials": [
+      "wikipedia.org", "britannica.com", "merriam-webster.com", "thesaurus.com",
+      "worldatlas.com", "encyclopedia.com", "infoplease.com", "factmonster.com",
+      "bartleby.com", "refdesk.com", "howstuffworks.com", "almanac.com",
+      "biography.com", "history.com", "nationalgeographic.com", "cia.gov",
+      "wolframalpha.com", "scholarpedia.org"
+    ],
+    "tutorials": [
+      "khanacademy.org", "codecademy.com", "freecodecamp.org", "tutorialspoint.com",
+      "w3schools.com", "tutsplus.com", "lynda.com", "teamtreehouse.com",
+      "thenewboston.com", "learnpython.org", "javascript.com", "css-tricks.com",
+      "smashingmagazine.com", "digitalocean.com/community", "guru99.com",
+      "studytonight.com", "edx.org", "educative.io"
+    ],
+    "academic_research": [
+      "jstor.org", "scholar.google.com", "pubmed.gov", "sciencedirect.com",
+      "researchgate.net", "academia.edu", "springer.com", "wiley.com",
+      "tandfonline.com", "sagepub.com", "elsevier.com", "ieee.org",
+      "arxiv.org", "doaj.org", "plos.org", "nature.com", "sciencemag.org",
+      "frontiersin.org"
+    ],
+    "anti_cheat_software": [
+      "*.easy.ac", "easyanticheat.net", "battleye.com", "riotgames.com", "*.riotcdn.net",
+      "punkbuster.com", "faceit.com", "esea.net", "nprotect.com", "gameguard.co.kr",
+      "xigncode.com", "warden.blizzard.com", "vac.valvesoftware.com", "denuvo.com",
+      "anticheatinc.net", "anticheat-expert.com", "wellbia.com", "equ8.com",
+      "gshield.net", "antitamper.com"
+    ],
+    "cheating_services": [
+      "lavicheats.com", "badwebsite.net", "aimjunkies.com", "elitepvpers.com",
+      "unknowncheats.me", "mpgh.net", "cheatengine.org", "artmoney.ru",
+      "gamehacking.academy", "guidedhacking.com", "cheathappens.com",
+      "iwantcheats.net", "artificialaiming.net", "securecheats.com",
+      "skycheats.com", "wallhax.com", "battlelog.cc", "engineowning.to",
+      "privatecheatz.com", "sinister.ly"
+    ],
+    "ad_networks": [
+      "*.doubleclick.net", "ads.google.com", "adservices.google.com", "adsense.google.com",
+      "*.googlesyndication.com", "adnxs.com", "pubmatic.com", "rubiconproject.com",
+      "openx.com", "criteo.com", "*.criteo.net", "media.net", "taboola.com",
+      "outbrain.com", "revcontent.com", "adroll.com", "appnexus.com",
+      "yieldmanager.com", "flashtalking.com", "adform.com"
+    ],
+    "piracy": [
+      "thepiratebay.org", "1337x.to", "rarbg.to", "limetorrents.lol", "yts.mx",
+      "kickasstorrents.to", "torrentz2.nz", "eztv.re", "zooqle.com", "torlock.com",
+      "fitgirl-repacks.site", "crackwatch.com", "gogunlocked.com", "igg-games.com",
+      "skidrowreloaded.com", "cs.rin.ru", "repack.me", "nmac.to", "macdrop.net",
+      "watchserieshd.tv", "fmovies.to", "solarmovie.pe", "putlocker.vip",
+      "9anime.to", "animefreak.tv", "kissasian.sh", "kisscartoon.org",
+      "openloadmovies.net", "projectfreetv.fun", "streamlord.com", "soap2day.to",
+      "oload.tv", "moviesjoy.to", "streamingcommunity.nu"
+   ]
+  }
